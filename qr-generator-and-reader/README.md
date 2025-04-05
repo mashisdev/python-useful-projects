@@ -10,3 +10,8 @@ A simple desktop application built with **Python** and **PyQt5** that allows you
 
 ```bash
 pip install pyqt5 qrcode pillow opencv-python
+```
+or
+```bash
+pip install -r "requirements.txt"
+```
