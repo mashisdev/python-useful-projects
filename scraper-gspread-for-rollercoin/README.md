@@ -9,7 +9,7 @@
 The sheer volume of available miners (more than 150,000) and their fluctuating market prices make it challenging to identify and track optimal investment opportunities.
 
 ### Solution
-This project scrapes miner data from the Rollercoin marketplace by parsing the HTML content of the "marketplace-buy-items-list" element. The script then organizes and stores this data in a Google Sheet for further analysis. To ensure data integrity, the script checks for duplicate miners using the unique combination of their names and power statistics.
+This project scrapes miner data from the Rollercoin marketplace by parsing the HTML content of the `marketplace-buy-items-list` element. The script then organizes and stores this data in a Google Sheet for further analysis. To ensure data integrity, the script checks for duplicate miners using the unique combination of their names and power statistics.
 
 ### Considerations
 - **Authentication:** Due to the complexity of automating site authentication (which involves email verification codes), this project does not handle login procedures. Users are expected to manually log in and provide the marketplace HTML.
@@ -23,7 +23,7 @@ This project scrapes miner data from the Rollercoin marketplace by parsing the H
 2. Environment Variables: set SHEET_ID (https://docs.google.com/spreadsheets/d/SHEET_ID/edit) and WORKSHEET environment variables to specify the target Google Sheet and worksheet.
 3. Dependencies: install required Python packages (gspread, beautifulsoup4, google-auth-httplib2, google-api-python-client, google-auth-oauthlib & python-dotenv) using
 `pip install -r "requirements.txt"` and run with `py main.py`
-4. HTML input: the script prompts for an HTML formatted text in the console. The user must log in to the site, navigate to the marketplace URL ([rollercoin.com/marketplace](http://rollercoin.com/marketplace)), inspect the site and search for the "marketplace-buy-items-list" element, copy and paste the HTML into the console and press enter.
+4. HTML input: the script prompts for an HTML formatted text in the console. The user must log in to the site, navigate to the marketplace URL ([rollercoin.com/marketplace](http://rollercoin.com/marketplace)), inspect the site and search for the `marketplace-buy-items-list` element, copy and paste the HTML into the console and press enter.
 5. Data Output: the script creates a structured table in the Google Sheet with essential miner data, facilitating informed trading decisions. The program also prints to the console the modifications it makes to the spreadsheet (e.g., `New entry added: ...`)
 
 ### Future Enhancements
