@@ -1,3 +1,6 @@
 [submodule "scrapers/scraper-rollercoin"]
 	path = scrapers/scraper-rollercoin
 	url = https://github.com/mashisdev/scraper-rollercoin.git
+[submodule "qr-generator-and-reader"]
+	path = qr-generator-and-reader
+	url = https://github.com/mashisdev/qr-generator-and-reader.git
