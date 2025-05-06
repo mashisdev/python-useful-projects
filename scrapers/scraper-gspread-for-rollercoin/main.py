@@ -138,7 +138,7 @@ def update_google_sheet(data):
 
 
 if __name__ == "__main__":
-    print("Please enter the HTML content:")
+    print("Please enter the HTML content (from marketplace-buy-items-list):")
     html_content = input()
 
     try:
