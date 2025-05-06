@@ -6,6 +6,6 @@ This repository is named 'useful projects' because I want to rescue those 'mini'
 
 Hope you enjoy it :blue_heart:
 
-## Projects
+## Projects list :scroll:
 
 - [Rollercoin scraper](https://github.com/mashisdev/scraper-rollercoin): A script to automate data collection from Rollercoin and export it to Google Sheets using Beautiful Soup and Gspread.
