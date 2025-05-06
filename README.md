@@ -9,6 +9,6 @@ Hope you enjoy it :blue_heart:
 ## Projects list :scroll:
 
 - Web scrapers:
-  1. [Rollercoin scraper](https://github.com/mashisdev/scraper-rollercoin): A script to automate data collection from Rollercoin and export it to Google Sheets using Beautiful Soup and Gspread.
+  - [Rollercoin scraper](https://github.com/mashisdev/scraper-rollercoin): A script to automate data collection from Rollercoin and export it to Google Sheets using Beautiful Soup and Gspread.
 - GUIs:
-  2. [QR Code Scanner & Generator](https://github.com/mashisdev/qr-generator-and-reader.git): A desktop application made with PyQt5 to scan and generate QR codes from images or text input.
+  - [QR Code Scanner & Generator](https://github.com/mashisdev/qr-generator-and-reader.git): A desktop application made with PyQt5 to scan and generate QR codes from images or text input.
