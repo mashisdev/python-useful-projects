@@ -1,0 +1,3 @@
+[submodule "scrapers/scraper-rollercoin"]
+	path = scrapers/scraper-rollercoin
+	url = https://github.com/mashisdev/scraper-rollercoin.git
