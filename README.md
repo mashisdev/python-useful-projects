@@ -8,7 +8,7 @@ Hope you enjoy it :blue_heart:
 
 ## Projects list :scroll:
 
-- Web scrapers:
+- [QR Code Scanner & Generator](https://github.com/mashisdev/qr-generator-and-reader.git): A desktop application made with PyQt5 to scan and generate QR codes from images or text input.
+- [YouTube Video Downloader](https://github.com/mashisdev/youtube-video-downloader.git): A terminal-based Python application to download YouTube videos in MP4 format.
+- Scrapers:
   - [Rollercoin scraper](https://github.com/mashisdev/scraper-rollercoin): A script to automate data collection from Rollercoin and export it to Google Sheets using Beautiful Soup and Gspread.
-- GUIs:
-  - [QR Code Scanner & Generator](https://github.com/mashisdev/qr-generator-and-reader.git): A desktop application made with PyQt5 to scan and generate QR codes from images or text input.
