@@ -4,3 +4,6 @@
 [submodule "qr-generator-and-reader"]
 	path = qr-generator-and-reader
 	url = https://github.com/mashisdev/qr-generator-and-reader.git
+[submodule "youtube-video-downloader"]
+	path = youtube-video-downloader
+	url = https://github.com/mashisdev/youtube-video-downloader.git
