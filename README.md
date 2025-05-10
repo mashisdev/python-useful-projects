@@ -10,5 +10,6 @@ Hope you enjoy it :blue_heart:
 
 - [QR Code Scanner & Generator](https://github.com/mashisdev/qr-generator-and-reader.git): A desktop application made with PyQt5 to scan and generate QR codes from images or text input.
 - [YouTube Video Downloader](https://github.com/mashisdev/youtube-video-downloader.git): A terminal-based Python application to download YouTube videos in MP4 format.
+- [File-organizer](https://github.com/mashisdev/file-organizer.git): A terminal-based Python application to automatically organize files into categorized folders (images, videos, documents, etc.) based on their extensions.
 - Scrapers:
   - [Rollercoin scraper](https://github.com/mashisdev/scraper-rollercoin): A script to automate data collection from Rollercoin and export it to Google Sheets using Beautiful Soup and Gspread.
