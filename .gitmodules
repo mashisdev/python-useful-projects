@@ -7,3 +7,6 @@
 [submodule "youtube-video-downloader"]
 	path = youtube-video-downloader
 	url = https://github.com/mashisdev/youtube-video-downloader.git
+[submodule "file-organizer"]
+	path = file-organizer
+	url = https://github.com/mashisdev/file-organizer.git
