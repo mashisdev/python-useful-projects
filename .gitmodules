@@ -10,3 +10,6 @@
 [submodule "file-organizer"]
 	path = file-organizer
 	url = https://github.com/mashisdev/file-organizer.git
+[submodule "text-and-file-encryptor"]
+	path = text-and-file-encryptor
+	url = https://github.com/mashisdev/text-and-file-encryptor.git
