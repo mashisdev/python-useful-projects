@@ -12,6 +12,6 @@ Hope you enjoy it :blue_heart:
 - [YouTube Video Downloader](https://github.com/mashisdev/youtube-video-downloader.git): A terminal-based Python application to download YouTube videos in MP4 format.
 - **File management and protection:**
   - [File-organizer](https://github.com/mashisdev/file-organizer.git): A terminal-based Python application to automatically organize files into categorized folders (images, videos, documents, etc.) based on their extensions.
-  - [Text and file encoder](https://github.com/mashisdev/text-and-file-encryptor.git): A desktop application built with PyQt5 that allows you to securely encrypt and decrypt text and files. It features a user-friendly GUI and supports files of any extension, appending .enc to encrypted files.
+  - [Text and file encryptor](https://github.com/mashisdev/text-and-file-encryptor.git): A desktop application built with PyQt5 that allows you to securely encrypt and decrypt text and files. It features a user-friendly GUI and supports files of any extension, appending .enc to encrypted files.
 - **Scrapers:**
   - [Rollercoin scraper](https://github.com/mashisdev/scraper-rollercoin): A script to automate data collection from Rollercoin and export it to Google Sheets using Beautiful Soup and Gspread.
