@@ -13,3 +13,6 @@
 [submodule "text-and-file-encryptor"]
 	path = text-and-file-encryptor
 	url = https://github.com/mashisdev/text-and-file-encryptor.git
+[submodule "ig-followers-tracker"]
+	path = ig-followers-tracker
+	url = https://github.com/mashisdev/ig-followers-tracker.git
