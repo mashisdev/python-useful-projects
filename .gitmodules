@@ -4,15 +4,15 @@
 [submodule "qr-generator-and-reader"]
 	path = qr-generator-and-reader
 	url = https://github.com/mashisdev/qr-generator-and-reader.git
-[submodule "youtube-video-downloader"]
-	path = youtube-video-downloader
-	url = https://github.com/mashisdev/youtube-video-downloader.git
 [submodule "file-organizer"]
 	path = file-organizer
 	url = https://github.com/mashisdev/file-organizer.git
 [submodule "text-and-file-encryptor"]
 	path = text-and-file-encryptor
 	url = https://github.com/mashisdev/text-and-file-encryptor.git
-[submodule "ig-followers-tracker"]
-	path = ig-followers-tracker
+[submodule "social-media/ig-followers-tracker"]
+	path = social-media/ig-followers-tracker
 	url = https://github.com/mashisdev/ig-followers-tracker.git
+[submodule "social-media/youtube-video-downloader"]
+	path = social-media/youtube-video-downloader
+	url = https://github.com/mashisdev/youtube-video-downloader.git
