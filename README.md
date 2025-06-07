@@ -8,7 +8,6 @@ Hope you enjoy it :blue_heart:
 
 ## Projects list :scroll:
 
-- [QR Code Scanner & Generator](https://github.com/mashisdev/qr-generator-and-reader.git): A desktop application made with PyQt5 to scan and generate QR codes from images or text input.
 - **Social media:**
   - [YouTube Video Downloader](https://github.com/mashisdev/youtube-video-downloader.git): A terminal-based Python application to download YouTube videos in MP4 format.
   - [Instagram Followers Analyzer](https://github.com/mashisdev/ig-followers-tracker.git): A Python tool to classify Instagram relationships from JSON data into mutuals, followers-only, and following-only.
@@ -17,3 +16,5 @@ Hope you enjoy it :blue_heart:
   - [Text and file encryptor](https://github.com/mashisdev/text-and-file-encryptor.git): A desktop application built with PyQt5 that allows you to securely encrypt and decrypt text and files. It features a user-friendly GUI and supports files of any extension, appending .enc to encrypted files.
 - **Scrapers:**
   - [Rollercoin scraper](https://github.com/mashisdev/scraper-rollercoin): A script to automate data collection from Rollercoin and export it to Google Sheets using Beautiful Soup and Gspread.
+- **Others:**
+  - [QR Code Scanner & Generator](https://github.com/mashisdev/qr-generator-and-reader.git): A desktop application made with PyQt5 to scan and generate QR codes from images or text input.
