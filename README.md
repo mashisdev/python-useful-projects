@@ -9,7 +9,8 @@ Hope you enjoy it :blue_heart:
 ## Projects list :scroll:
 
 - **Social media:**
-  - [YouTube Video Downloader](https://github.com/mashisdev/youtube-video-downloader.git): A terminal-based Python application to download YouTube videos in MP4 format.
+  - [YouTube Video Downloader](https://github.com/mashisdev/youtube-video-downloader.git): A terminal-based Python application to download YouTube videos in MP4 format
+  - [YouTube Audio Downloader](https://github.com/mashisdev/youtube-audio-downloader.git): Another terminal-based Python application to download YouTube videos in MP3 format.
   - [Instagram Followers Analyzer](https://github.com/mashisdev/ig-followers-tracker.git): A Python tool to classify Instagram relationships from JSON data into mutuals, followers-only, and following-only.
 - **File management and protection:**
   - [File-organizer](https://github.com/mashisdev/file-organizer.git): A terminal-based Python application to automatically organize files into categorized folders (images, videos, documents, etc.) based on their extensions.
