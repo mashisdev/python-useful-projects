@@ -16,6 +16,7 @@ Hope you enjoy it :blue_heart:
   - [File-organizer](https://github.com/mashisdev/file-organizer.git): A terminal-based Python application to automatically organize files into categorized folders (images, videos, documents, etc.) based on their extensions.
   - [Text and file encryptor](https://github.com/mashisdev/text-and-file-encryptor.git): A desktop application built with PyQt5 that allows you to securely encrypt and decrypt text and files. It features a user-friendly GUI and supports files of any extension, appending .enc to encrypted files.
 - **Scrapers:**
-  - [Rollercoin scraper](https://github.com/mashisdev/scraper-rollercoin): A script to automate data collection from Rollercoin and export it to Google Sheets using Beautiful Soup and Gspread.
+  - [Rollercoin Google sheet scraper](https://github.com/mashisdev/scraper-rollercoin): A script to automate data collection from Rollercoin and export it to Google Sheets using Beautiful Soup and Gspread.
+  - [Rollercoin local sheet scraper](https://github.com/mashisdev/local-scraper-rollercoin.git): A script to automate data collection from Rollercoin and export it to a Microsoft Excel sheet using Beautiful Soup and Pandas.
 - **Others:**
   - [QR Code Scanner & Generator](https://github.com/mashisdev/qr-generator-and-reader.git): A desktop application made with PyQt5 to scan and generate QR codes from images or text input.
