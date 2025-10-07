@@ -19,3 +19,6 @@
 [submodule "social-media/youtube-audio-downloader"]
 	path = social-media/youtube-audio-downloader
 	url = https://github.com/mashisdev/youtube-audio-downloader.git
+[submodule "scrapers/local-scraper-rollercoin"]
+	path = scrapers/local-scraper-rollercoin
+	url = https://github.com/mashisdev/local-scraper-rollercoin.git
